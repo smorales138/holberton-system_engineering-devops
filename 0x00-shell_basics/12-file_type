@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp/imafile
+file  /0x00-shell_basics/tmp/iamafile
