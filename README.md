@@ -1,4 +1,1 @@
-task 0.where am i?
-shell basics 
-print parh using scrip
-test
+FILE 0X02-shell_redirections
